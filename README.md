@@ -15,14 +15,12 @@
     <a href="https://t.me/tehnomaniak07" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    <a href="https://t.me/ZeRcooI" target="_blank">
+      <img src="https://www.flaticon.com/free-icon-font/telegram_6422206?related_id=6422206" width="40" height="40" alt="Telegram"/>
     </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    <a href="https://zen.yandex.ru/id/603e522b3c020230bb223e5e" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+    <a href="zercool" target="_blank">
+      <p>discord</p>
+      <img src="https://www.flaticon.com/free-icon-font/discord_6422197?related_id=6422197" width="40" height="40" alt="zercool"/>
     </a>
 </div>
 
