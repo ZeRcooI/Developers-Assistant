@@ -183,5 +183,4 @@
 
 - Вся собранная база сделана мной [@ZeRcooI](https://github.com/ZeRcooI)
 
-  Структура страницы позаимствована у: 
-- [@FilimonovAlexey](https://github.com/FilimonovAlexey)
+  Структура страницы позаимствована: [@FilimonovAlexey](https://github.com/FilimonovAlexey)
