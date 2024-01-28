@@ -8,17 +8,6 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
 </div>
 
-<div id="badges" align="center">
-    <a href="https://t.me/ZeRcooI" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-    <a href="zercool" target="_blank">
-      <p>discord</p>
-      <img src="![image](https://github.com/ZeRcooI/Programming-Cheat-Sheets/assets/94679102/57c67bae-4424-4dac-bb31-70f05040c644)
- " width="40" height="40" alt="zercool"/>
-    </a>
-</div>
-
 ## HTML и CSS
 
  - [Справочник по HTML и CSS](https://github.com/xsltdev/hcdev.ru)
