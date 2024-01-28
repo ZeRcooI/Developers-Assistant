@@ -14,7 +14,8 @@
     </a>
     <a href="zercool" target="_blank">
       <p>discord</p>
-      <img src="https://www.flaticon.com/free-icon-font/discord_6422197?related_id=6422197" width="40" height="40" alt="zercool"/>
+      <img src="![image](https://github.com/ZeRcooI/Programming-Cheat-Sheets/assets/94679102/57c67bae-4424-4dac-bb31-70f05040c644)
+ " width="40" height="40" alt="zercool"/>
     </a>
 </div>
 
