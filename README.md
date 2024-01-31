@@ -10,7 +10,7 @@
 
 Редакторы====================================================================================>
 
-- [Русский хелп по Krita, Blender, Photoshop. Уроки (обучение) на русском.](https://www.youtube.com/@Ventallica)
+- https://www.youtube.com/@Ventallica - Русский хелп по Krita, Blender, Photoshop. Уроки (обучение) на русском.
 - https://www.youtube.com/@PhhhPhhh/videos - Понятные гайды по фотошопу и другим дизайн программам!
 - https://www.youtube.com/@ustinovcreate - Самые ПОНЯТНЫЕ уроки по фотошопу & иллюстратору
 - https://www.youtube.com/@gfxom/videos - Понятные гайды по фотошопу
