@@ -9,34 +9,36 @@
 </div>
 
 Редакторы====================================================================================>
+
 - [Русский хелп по Krita, Blender, Photoshop. Уроки (обучение) на русском.](https://www.youtube.com/@Ventallica)
-2)https://www.youtube.com/@PhhhPhhh/videos - Понятные гайды по фотошопу и другим дизайн программам!
-3)https://www.youtube.com/@ustinovcreate - Самые ПОНЯТНЫЕ уроки по фотошопу & иллюстратору
-4)https://www.youtube.com/@gfxom/videos - Понятные гайды по фотошопу
-5)https://www.youtube.com/@Farely/videos - арты в фотошопе и 3д моделирование, оч крутая мадама
+- https://www.youtube.com/@PhhhPhhh/videos - Понятные гайды по фотошопу и другим дизайн программам!
+- https://www.youtube.com/@ustinovcreate - Самые ПОНЯТНЫЕ уроки по фотошопу & иллюстратору
+- https://www.youtube.com/@gfxom/videos - Понятные гайды по фотошопу
+- https://www.youtube.com/@Farely/videos - арты в фотошопе и 3д моделирование, оч крутая мадама
 
-1)https://www.youtube.com/@Prokopjenya - Blender уроки
-2)https://www.youtube.com/@HeyMaxorigami/videos - Уроки 3d blender
-3)https://www.youtube.com/@Polyfjord/videos - Мощные уроки 3d blender
-4)https://www.youtube.com/@DenisKozhar - blender полный курс
+- https://www.youtube.com/@Prokopjenya - Blender уроки
+- https://www.youtube.com/@HeyMaxorigami/videos - Уроки 3d blender
+- https://www.youtube.com/@Polyfjord/videos - Мощные уроки 3d blender
+- https://www.youtube.com/@DenisKozhar - blender полный курс
 
-UNITY========================================================================================================================================================================================================================================================================================================>
-1)https://www.youtube.com/@NoobGameDev - Базовые уроки Unity.
-2)https://www.youtube.com/@unityk555 - Unity 3D и здесь я рассказываю простыми словами о сложных вещах(паттерны)
-3)https://www.youtube.com/@-it394 - Яковлев Илья - обучающие видео по Unity и C#
-4)https://www.youtube.com/@RuslanSmirnovGameDev - Как создаются игры, с чего начать, какие основные подходы - все это ты узнаешь на канале.
-5)https://www.youtube.com/@gamedevlavka - Даю ответы на вопрос как делать игры на Unity!
-6)https://www.youtube.com/@atlassdev2481 - Атлас деф, опыт по созданию игры
-7)https://www.youtube.com/@gaitavr1992/videos - Мощный дядька по Unity(не для начинающих)
-8)https://www.youtube.com/@EmeraldPowder -  Видео связанны с Unity 3D, но я стараюсь рассказать и о других альтернативах
-9)https://www.youtube.com/@AdamCYounis - Отличная альтернатива создания игр(НЕ на русском)
-10)https://www.youtube.com/@MisterTaftCreates/videos Отличная альтернатива создания игр(НЕ на русском)
-11)https://www.youtube.com/@multodey/videos - Сливы больших блоков курсов по разным движкам и ЯП
-12)https://www.youtube.com/@insaneone-7220 - Немного отличной инфы по Unity
-13)https://youtube.com/@UGuruz?si=PWzabV8DmHCw3XXC - Узнайте, как использовать Unity для создания фильмов, анимации, кинематографии и архитектурной визуализации.
-14)https://www.youtube.com/@unitylearns/videos - Слив создания игр на Udemy
-15)https://www.youtube.com/@KorgiBit/videos - Небольшой материал по созданию игр  на Unity
-16)https://www.youtube.com/watch?v=cPEp3fiVMgQ&t=191s - КАК ВЫЛОЖИТЬ ИГРУ НА ЯНДЕКС
+UNITY========================================================================================>
+
+- https://www.youtube.com/@NoobGameDev - Базовые уроки Unity.
+- https://www.youtube.com/@unityk555 - Unity 3D и здесь я рассказываю простыми словами о сложных вещах(паттерны)
+- https://www.youtube.com/@-it394 - Яковлев Илья - обучающие видео по Unity и C#
+- https://www.youtube.com/@RuslanSmirnovGameDev - Как создаются игры, с чего начать, какие основные подходы - все это ты узнаешь на канале.
+- https://www.youtube.com/@gamedevlavka - Даю ответы на вопрос как делать игры на Unity!
+- https://www.youtube.com/@atlassdev2481 - Атлас деф, опыт по созданию игры
+- https://www.youtube.com/@gaitavr1992/videos - Мощный дядька по Unity(не для начинающих)
+- https://www.youtube.com/@EmeraldPowder -  Видео связанны с Unity 3D, но я стараюсь рассказать и о других альтернативах
+- https://www.youtube.com/@AdamCYounis - Отличная альтернатива создания игр(НЕ на русском)
+- https://www.youtube.com/@MisterTaftCreates/videos Отличная альтернатива создания игр(НЕ на русском)
+- https://www.youtube.com/@multodey/videos - Сливы больших блоков курсов по разным движкам и ЯП
+- https://www.youtube.com/@insaneone-7220 - Немного отличной инфы по Unity
+- https://youtube.com/@UGuruz?si=PWzabV8DmHCw3XXC - Узнайте, как использовать Unity для создания фильмов, анимации, кинематографии и архитектурной визуализации.
+- https://www.youtube.com/@unitylearns/videos - Слив создания игр на Udemy
+- https://www.youtube.com/@KorgiBit/videos - Небольшой материал по созданию игр  на Unity
+- https://www.youtube.com/watch?v=cPEp3fiVMgQ&t=191s - КАК ВЫЛОЖИТЬ ИГРУ НА ЯНДЕКС
 
 C#===========================================================================================================================================================================================================================================================================================================>
 1)https://www.youtube.com/@SimpleCodeIT - Подробные уроки программирования C#, C++.
