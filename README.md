@@ -21,7 +21,7 @@
 - https://www.youtube.com/@Polyfjord/videos - Мощные уроки 3d blender
 - https://www.youtube.com/@DenisKozhar - blender полный курс
 
-UNITY========================================================================================>
+UNITY=======================================================================================>
 
 - https://www.youtube.com/@NoobGameDev - Базовые уроки Unity.
 - https://www.youtube.com/@unityk555 - Unity 3D и здесь я рассказываю простыми словами о сложных вещах(паттерны)
