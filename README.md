@@ -8,6 +8,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
 </div>
 
+
 Редакторы====================================================================================>
 - https://www.youtube.com/@Ventallica - Русский хелп по Krita, Blender, Photoshop. Уроки (обучение) на русском.
 - https://www.youtube.com/@PhhhPhhh/videos - Понятные гайды по фотошопу и другим дизайн программам!
