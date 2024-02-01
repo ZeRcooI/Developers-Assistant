@@ -132,6 +132,7 @@ Frontend разработка============================================>
 - https://www.cssmatic.com/ - CSS редактор онлайн
 - https://habr.com/ru/articles/313938/ - ШПАРГАЛКА ПО FLEXBOX
 - https://validator.w3.org/ - Семантика разработчика
+- https://wireframe.cc/ - Инструмент для быстрого наброска сайта
 
 - https://www.youtube.com/@vadymprokopchuk - уроки Web разработки - клад для начинающего
 - https://www.youtube.com/@ivashov/videos - уроки Web разработки - клад для начинающего
