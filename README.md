@@ -89,6 +89,7 @@ III. slmgr /ato
 - https://t.me/+CQ2NhZ-I1ck0YWEy - моя помоечка с разной инфой
 - https://dictaphone.audio/ru/#/ - диктофон сразу в mp3
 - https://payment.mts.ru/cyber#Steam - ПОПОЛНИТЬ STEAM
+- https://www.youtube.com/watch?v=CbANs8O0mK4 - Как выложить проект на itch.io
 
 Юнити звуки============================================>
 - https://motionarray.com/browse/sound-effects/free/
