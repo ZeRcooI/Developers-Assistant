@@ -111,6 +111,7 @@ III. slmgr /ato
 - https://www.mixamo.com/
 - https://www.flaticon.com/
 - https://www.klipartz.com/ru/search?q=%D1%81%D0%BF%D1%80%D0%B0%D0%B9%D1%82%D1%8B
+- https://fonzon.club/13101-zadnij-fon-dlja-igry-2d-77-foto.html - задние фоны для 2D
 
 Frontend разработка============================================>
 - https://www.youtube.com/@UlbiTV/videos - Javascript, backend, frontend, базы данных, алгоритмы и многое другое!). Курс "Продвинутый frontend. В Production на React" - https://ulbitv.ru/frontend
