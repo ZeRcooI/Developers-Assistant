@@ -8,6 +8,34 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
 </div>
 
+Frontend разработка============================================>
+- https://www.youtube.com/@UlbiTV/videos - Javascript, backend, frontend, базы данных, алгоритмы и многое другое!). Курс "Продвинутый frontend. В Production на React" - https://ulbitv.ru/frontend
+- https://www.youtube.com/@VladilenMinin/videos - Современная школа Frontend разработки
+- https://www.youtube.com/@wdm - Уникальные авторские уроки и курсы по созданию сайтов, профессиональной верстке и современному веб-дизайну.
+
+- https://fontawesome.com/search - огромное множество Иконок
+- https://www.flaticon.com/icons?k=1705493052007&log-in=google - огромное множество Иконок
+- https://iconduck.com/ - я хз зачем вам столько Иконок
+- https://www.favicon.by/ - создаем фавиконы
+- https://logoza.ru/ - создание logo с фоном
+- https://photopea.ru/ - вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG)
+
+- https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080 - Где взять бесплатные картинки для коммерческого использования
+- https://unsplash.com/ - МНОЖЕСТВО КАРТИНОК
+- https://ru.freepik.com/popular-photos - МНОЖЕСТВО КАРТИНОК
+- https://www.vecteezy.com/free-videos - Множество видео
+
+- https://yoksel.github.io/ - Шпаргалка по CSS
+- https://bennettfeely.com/ - очень полезный инструмент для CSS
+- https://www.cssmatic.com/ - CSS редактор онлайн
+- https://habr.com/ru/articles/313938/ - ШПАРГАЛКА ПО FLEXBOX
+- https://validator.w3.org/ - Семантика разработчика
+- https://wireframe.cc/ - Инструмент для быстрого наброска сайта
+
+- https://www.youtube.com/@vadymprokopchuk - уроки Web разработки - клад для начинающего
+- https://www.youtube.com/@ivashov/videos - уроки Web разработки - клад для начинающего
+- https://www.youtube.com/watch?v=nkXmPyHG0x0&list=PLM2Q6lcZo4MexclJrYxA0Is42qWBBuHpB - нескучная обучалка по Figma
+
 Редакторы============================================>
 - https://www.youtube.com/@Ventallica - Русский хелп по Krita, Blender, Photoshop. Уроки (обучение) на русском.
 - https://www.youtube.com/@PhhhPhhh/videos - Понятные гайды по фотошопу и другим дизайн программам!
@@ -114,36 +142,7 @@ III. slmgr /ato
 - https://www.klipartz.com/ru/search?q=%D1%81%D0%BF%D1%80%D0%B0%D0%B9%D1%82%D1%8B
 - https://fonzon.club/13101-zadnij-fon-dlja-igry-2d-77-foto.html - задние фоны для 2D
 
-Frontend разработка============================================>
-- https://www.youtube.com/@UlbiTV/videos - Javascript, backend, frontend, базы данных, алгоритмы и многое другое!). Курс "Продвинутый frontend. В Production на React" - https://ulbitv.ru/frontend
-- https://www.youtube.com/@VladilenMinin/videos - Современная школа Frontend разработки
-- https://www.youtube.com/@wdm - Уникальные авторские уроки и курсы по созданию сайтов, профессиональной верстке и современному веб-дизайну.
-
-- https://fontawesome.com/search - огромное множество Иконок
-- https://www.flaticon.com/icons?k=1705493052007&log-in=google - огромное множество Иконок
-- https://iconduck.com/ - я хз зачем вам столько Иконок
-- https://www.favicon.by/ - создаем фавиконы
-- https://logoza.ru/ - создание logo с фоном
-- https://photopea.ru/ - вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG)
-
-- https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080 - Где взять бесплатные картинки для коммерческого использования
-- https://unsplash.com/ - МНОЖЕСТВО КАРТИНОК
-- https://ru.freepik.com/popular-photos - МНОЖЕСТВО КАРТИНОК
-- https://www.vecteezy.com/free-videos - Множество видео
-
-- https://yoksel.github.io/ - Шпаргалка по CSS
-- https://bennettfeely.com/ - очень полезный инструмент для CSS
-- https://www.cssmatic.com/ - CSS редактор онлайн
-- https://habr.com/ru/articles/313938/ - ШПАРГАЛКА ПО FLEXBOX
-- https://validator.w3.org/ - Семантика разработчика
-- https://wireframe.cc/ - Инструмент для быстрого наброска сайта
-
-- https://www.youtube.com/@vadymprokopchuk - уроки Web разработки - клад для начинающего
-- https://www.youtube.com/@ivashov/videos - уроки Web разработки - клад для начинающего
-- https://www.youtube.com/watch?v=nkXmPyHG0x0&list=PLM2Q6lcZo4MexclJrYxA0Is42qWBBuHpB - нескучная обучалка по Figma
-
 Сочетания клавиш============================================>
-
 Большинство сочетаний используется во всех программах, я стараюсь сразу изменять все под один тип, так намного удобнее работать за своим компьютером
 - ctrl A -скопить всё
 - ctrl C - скопировать выделенную часть текста
