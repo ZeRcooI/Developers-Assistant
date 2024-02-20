@@ -18,7 +18,7 @@ Frontend разработка============================================>
 - https://iconduck.com/ - я хз зачем вам столько Иконок
 - https://www.favicon.by/ - создаем фавиконы
 - https://logoza.ru/ - создание logo с фоном
-- [https://www.photopea.com/](вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG))
+- [вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG)](https://www.photopea.com/)
 
 - https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080 - Где взять бесплатные картинки для коммерческого использования
 - https://unsplash.com/ - МНОЖЕСТВО КАРТИНОК
