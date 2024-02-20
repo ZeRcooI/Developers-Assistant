@@ -9,16 +9,16 @@
 </div>
 
 Frontend разработка============================================>
-- https://www.youtube.com/@UlbiTV/videos - Javascript, backend, frontend, базы данных, алгоритмы и многое другое!). Курс "Продвинутый frontend. В Production на React" - https://ulbitv.ru/frontend
-- https://www.youtube.com/@VladilenMinin/videos - Современная школа Frontend разработки
-- https://www.youtube.com/@wdm - Уникальные авторские уроки и курсы по созданию сайтов, профессиональной верстке и современному веб-дизайну.
+- [Javascript, backend, frontend, базы данных, алгоритмы и многое другое!). Курс "Продвинутый frontend. В Production на React" - https://ulbitv.ru/frontend](https://www.youtube.com/@UlbiTV/videos)
+- [Современная школа Frontend разработки](https://www.youtube.com/@VladilenMinin/videos)
+- [Уникальные авторские уроки и курсы по созданию сайтов, профессиональной верстке и современному веб-дизайну](https://www.youtube.com/@wdm)
 
-- https://fontawesome.com/search - огромное множество Иконок
-- https://www.flaticon.com/icons?k=1705493052007&log-in=google - огромное множество Иконок
-- https://iconduck.com/ - я хз зачем вам столько Иконок
-- https://www.favicon.by/ - создаем фавиконы
-- https://logoza.ru/ - создание logo с фоном
-- [вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG)](https://www.photopea.com/)
+- [Огромное множество Иконок](https://fontawesome.com/search)
+- [Огромное множество Иконок](https://www.flaticon.com/icons?k=1705493052007&log-in=google)
+- [Хз зачем вам столько Иконок](https://iconduck.com/)
+- [Создаем фавиконы](https://www.favicon.by/)
+- [Создание logo с фоном](https://logoza.ru/)
+- [Вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG)](https://www.photopea.com/)
 
 - https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080 - Где взять бесплатные картинки для коммерческого использования
 - https://unsplash.com/ - МНОЖЕСТВО КАРТИНОК
