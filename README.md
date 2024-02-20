@@ -31,6 +31,7 @@ Frontend разработка============================================>
 - https://habr.com/ru/articles/313938/ - ШПАРГАЛКА ПО FLEXBOX
 - https://validator.w3.org/ - Семантика разработчика
 - https://wireframe.cc/ - Инструмент для быстрого наброска сайта
+- https://cloudconvert.com/mp4-to-gif - сервис для конверта видосов в gif
 
 - https://www.youtube.com/@vadymprokopchuk - уроки Web разработки - клад для начинающего
 - https://www.youtube.com/@ivashov/videos - уроки Web разработки - клад для начинающего
