@@ -21,54 +21,54 @@ Frontend разработка============================================>
 - [Создание logo с фоном](https://logoza.ru/)
 - [Вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG)](https://www.photopea.com/)
 ###############################################################################################
-- https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080 - Где взять бесплатные картинки для коммерческого использования
-- https://unsplash.com/ - МНОЖЕСТВО КАРТИНОК
-- https://ru.freepik.com/popular-photos - МНОЖЕСТВО КАРТИНОК
-- https://www.vecteezy.com/free-videos - Множество видео
+- [Где взять бесплатные картинки для коммерческого использования](https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080) 
+- [МНОЖЕСТВО КАРТИНОК](https://unsplash.com/)
+- [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
+- [Множество видео](https://www.vecteezy.com/free-videos)
 ###############################################################################################
-- https://yoksel.github.io/ - Шпаргалка по CSS
-- https://bennettfeely.com/ - очень полезный инструмент для CSS
-- https://www.cssmatic.com/ - CSS редактор онлайн
-- https://habr.com/ru/articles/313938/ - ШПАРГАЛКА ПО FLEXBOX
-- https://validator.w3.org/ - Семантика разработчика
-- https://wireframe.cc/ - Инструмент для быстрого наброска сайта
-- https://pr-cy.ru/favicon/ - инструмент для преобразования изображения в фавиконку
-- https://cloudconvert.com/mp4-to-gif - сервис для конверта видосов в gif
+- [Шпаргалка по CSS](https://yoksel.github.io/)
+- [Очень полезный инструмент для CSS](https://bennettfeely.com/)
+- [CSS редактор онлайн](https://www.cssmatic.com/)
+- [ШПАРГАЛКА ПО FLEXBOX](https://habr.com/ru/articles/313938/)
+- [Семантика разработчика](https://validator.w3.org/)
+- [Инструмент для быстрого наброска сайта](https://wireframe.cc/)
+- [Инструмент для преобразования изображения в фавиконку](https://pr-cy.ru/favicon/)
+- [Сервис для конверта видосов в gif](https://cloudconvert.com/mp4-to-gif)
 ###############################################################################################
-- https://www.youtube.com/@vadymprokopchuk - уроки Web разработки - клад для начинающего
-- https://www.youtube.com/@ivashov/videos - уроки Web разработки - клад для начинающего
-- https://www.youtube.com/watch?v=nkXmPyHG0x0&list=PLM2Q6lcZo4MexclJrYxA0Is42qWBBuHpB - нескучная обучалка по Figma
+- [Уроки Web разработки - клад для начинающего](https://www.youtube.com/@vadymprokopchuk)
+- [Уроки Web разработки - клад для начинающего](https://www.youtube.com/@ivashov/videos)
+- [Нескучная обучалка по Figma](https://www.youtube.com/watch?v=nkXmPyHG0x0&list=PLM2Q6lcZo4MexclJrYxA0Is42qWBBuHpB)
 
 Редакторы============================================>
-- https://www.youtube.com/@Ventallica - Русский хелп по Krita, Blender, Photoshop. Уроки (обучение) на русском.
-- https://www.youtube.com/@PhhhPhhh/videos - Понятные гайды по фотошопу и другим дизайн программам!
-- https://www.youtube.com/@ustinovcreate - Самые ПОНЯТНЫЕ уроки по фотошопу & иллюстратору
+- [Русский хелп по Krita, Blender, Photoshop. Уроки (обучение) на русском.](https://www.youtube.com/@Ventallica)
+- [Понятные гайды по фотошопу и другим дизайн программам!](https://www.youtube.com/@PhhhPhhh/videos)
+- [Самые ПОНЯТНЫЕ уроки по фотошопу & иллюстратору](https://www.youtube.com/@ustinovcreate)
      
-- https://www.youtube.com/@gfxom/videos - Понятные гайды по фотошопу
-- https://www.youtube.com/@Farely/videos - арты в фотошопе и 3д моделирование, оч крутая мадама
+- [Понятные гайды по фотошопу](https://www.youtube.com/@gfxom/videos)
+- [Арты в фотошопе и 3д моделирование, оч крутая мадама](https://www.youtube.com/@Farely/videos)
 
-- https://www.youtube.com/@Prokopjenya - Blender уроки
-- https://www.youtube.com/@HeyMaxorigami/videos - Уроки 3d blender
-- https://www.youtube.com/@Polyfjord/videos - Мощные уроки 3d blender
-- https://www.youtube.com/@DenisKozhar - blender полный курс
+- [Blender уроки](https://www.youtube.com/@Prokopjenya)
+- [Уроки 3d blender](https://www.youtube.com/@HeyMaxorigami/videos)
+- [Мощные уроки 3d blender](https://www.youtube.com/@Polyfjord/videos)
+- [Blender полный курс](https://www.youtube.com/@DenisKozhar)
 
 UNITY============================================>
-- https://www.youtube.com/@NoobGameDev - Базовые уроки Unity.
-- https://www.youtube.com/@unityk555 - Unity 3D и здесь я рассказываю простыми словами о сложных вещах(паттерны)
-- https://www.youtube.com/@-it394 - Яковлев Илья - обучающие видео по Unity и C#
-- https://www.youtube.com/@RuslanSmirnovGameDev - Как создаются игры, с чего начать, какие основные подходы - все это ты узнаешь на канале.
-- https://www.youtube.com/@gamedevlavka - Даю ответы на вопрос как делать игры на Unity!
-- https://www.youtube.com/@atlassdev2481 - Атлас деф, опыт по созданию игры
-- https://www.youtube.com/@gaitavr1992/videos - Мощный дядька по Unity(не для начинающих)
-- https://www.youtube.com/@EmeraldPowder -  Видео связанны с Unity 3D, но я стараюсь рассказать и о других альтернативах
-- https://www.youtube.com/@AdamCYounis - Отличная альтернатива создания игр(НЕ на русском)
-- https://www.youtube.com/@MisterTaftCreates/videos Отличная альтернатива создания игр(НЕ на русском)
-- https://www.youtube.com/@multodey/videos - Сливы больших блоков курсов по разным движкам и ЯП
-- https://www.youtube.com/@insaneone-7220 - Немного отличной инфы по Unity
-- https://youtube.com/@UGuruz?si=PWzabV8DmHCw3XXC - Узнайте, как использовать Unity для создания фильмов, анимации, кинематографии и архитектурной визуализации.
-- https://www.youtube.com/@unitylearns/videos - Слив создания игр на Udemy
-- https://www.youtube.com/@KorgiBit/videos - Небольшой материал по созданию игр  на Unity
-- https://www.youtube.com/watch?v=cPEp3fiVMgQ&t=191s - КАК ВЫЛОЖИТЬ ИГРУ НА ЯНДЕКС
+- [Базовые уроки Unity.](https://www.youtube.com/@NoobGameDev)
+- [Unity 3D и здесь я рассказываю простыми словами о сложных вещах(паттерны)](https://www.youtube.com/@unityk555)
+- [Яковлев Илья - обучающие видео по Unity и C#](https://www.youtube.com/@-it394)
+- [Как создаются игры, с чего начать, какие основные подходы - все это ты узнаешь на канале.](https://www.youtube.com/@RuslanSmirnovGameDev)
+- [Даю ответы на вопрос как делать игры на Unity!](https://www.youtube.com/@gamedevlavka)
+- [Атлас деф, опыт по созданию игры](https://www.youtube.com/@atlassdev2481)
+- [Мощный дядька по Unity(не для начинающих)](https://www.youtube.com/@gaitavr1992/videos)
+- [Видео связанны с Unity 3D, но я стараюсь рассказать и о других альтернативах](https://www.youtube.com/@EmeraldPowder)
+- [Отличная альтернатива создания игр(НЕ на русском)](https://www.youtube.com/@AdamCYounis)
+- [Отличная альтернатива создания игр(НЕ на русском)](https://www.youtube.com/@MisterTaftCreates/videosv)
+- [Сливы больших блоков курсов по разным движкам и ЯП](https://www.youtube.com/@multodey/videos)
+- [Немного отличной инфы по Unity](https://www.youtube.com/@insaneone-7220)
+- [Узнайте, как использовать Unity для создания фильмов, анимации, кинематографии и архитектурной визуализации.](https://youtube.com/@UGuruz?si=PWzabV8DmHCw3XXC)
+- [Слив создания игр на Udemy](https://www.youtube.com/@unitylearns/videos)
+- [Небольшой материал по созданию игр  на Unity](https://www.youtube.com/@KorgiBit/videos)
+- [КАК ВЫЛОЖИТЬ ИГРУ НА ЯНДЕКС](https://www.youtube.com/watch?v=cPEp3fiVMgQ&t=191s)
 
 C#============================================>
 - https://www.youtube.com/@SimpleCodeIT - Подробные уроки программирования C#, C++.
