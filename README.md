@@ -79,11 +79,11 @@ UNITY============================================>
 - [КАК ВЫЛОЖИТЬ ИГРУ НА ЯНДЕКС](https://www.youtube.com/watch?v=cPEp3fiVMgQ&t=191s)
 
 C#============================================>
-- https://www.youtube.com/@SimpleCodeIT - Подробные уроки программирования C#, C++.
-- https://www.youtube.com/@ExtremeCode/videos - Уроки программирования C# с мемным подходом
-- https://www.youtube.com/@senior_v_IT - Про язык программирования C# и про платформу .NET.
-- https://www.youtube.com/@codaza-channel - Канал о разработке на платформе .NET. Говорим о ⚡️ C#, ASP.NET Core, Unit-тестировании, SOLID, паттернах и о многом другом.
-- https://www.youtube.com/@builderline7061/videos - курсы паттерного проектирования
+- [Подробные уроки программирования C#, C++.](https://www.youtube.com/@SimpleCodeIT)
+- [Уроки программирования C# с мемным подходом](https://www.youtube.com/@ExtremeCode/videos)
+- [Про язык программирования C# и про платформу .NET.](https://www.youtube.com/@senior_v_IT)
+- [Канал о разработке на платформе .NET. Говорим о ⚡️ C#, ASP.NET Core, Unit-тестировании, SOLID, паттернах и о многом другом.](https://www.youtube.com/@codaza-channel)
+- [Курсы паттерного проектирования.](https://www.youtube.com/@builderline7061/videos)
 
 Полезные файлы и Команды============================================>
 - https://yadi.sk/d/xGByf7Mo3F8GlQ - Слив курс по WEBразработке
