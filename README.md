@@ -13,19 +13,25 @@ Frontend разработка============================================>
 - [Курс "Продвинутый frontend. В Production на React"](https://ulbitv.ru/frontend)
 - [Современная школа Frontend разработки](https://www.youtube.com/@VladilenMinin/videos)
 - [Уникальные авторские уроки и курсы по созданию сайтов, профессиональной верстке и современному веб-дизайну](https://www.youtube.com/@wdm)
+ 
 ###############################################################################
+
 - [Огромное множество Иконок](https://fontawesome.com/search)
 - [Огромное множество Иконок](https://www.flaticon.com/icons?k=1705493052007&log-in=google)
 - [Хз зачем вам столько Иконок](https://iconduck.com/)
 - [Создаем фавиконы](https://www.favicon.by/)
 - [Создание logo с фоном](https://logoza.ru/)
 - [Вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG)](https://www.photopea.com/)
+  
 ###############################################################################
+
 - [Где взять бесплатные картинки для коммерческого использования](https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080) 
 - [МНОЖЕСТВО КАРТИНОК](https://unsplash.com/)
 - [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
 - [Множество видео](https://www.vecteezy.com/free-videos)
+ 
 ###############################################################################
+
 - [Шпаргалка по CSS](https://yoksel.github.io/)
 - [Очень полезный инструмент для CSS](https://bennettfeely.com/)
 - [CSS редактор онлайн](https://www.cssmatic.com/)
@@ -34,7 +40,9 @@ Frontend разработка============================================>
 - [Инструмент для быстрого наброска сайта](https://wireframe.cc/)
 - [Инструмент для преобразования изображения в фавиконку](https://pr-cy.ru/favicon/)
 - [Сервис для конверта видосов в gif](https://cloudconvert.com/mp4-to-gif)
+  
 ###############################################################################
+
 - [Уроки Web разработки - клад для начинающего](https://www.youtube.com/@vadymprokopchuk)
 - [Уроки Web разработки - клад для начинающего](https://www.youtube.com/@ivashov/videos)
 - [Нескучная обучалка по Figma](https://www.youtube.com/watch?v=nkXmPyHG0x0&list=PLM2Q6lcZo4MexclJrYxA0Is42qWBBuHpB)
