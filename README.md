@@ -175,16 +175,16 @@ III. slmgr /ato
 
 Telegram чаты============================================>
 #WEB
-- https://t.me/udemy_chat_from_ivan - Чат очень классного преподавателя по Web
-- https://t.me/figma2html - Макеты для верстки
+- [Чат очень классного преподавателя по Web](https://t.me/udemy_chat_from_ivan)
+- [Макеты для верстки](https://t.me/figma2html)
 
 #DeveloperNews
-- @frontendnoteschannel (https://t.me/+mgVCqo08R5Y3MTNi) - Годные статьи для Frontend разработчиков
-- @we_use_js (https://t.me/+QZtUs-B2TlY1MzRi) - Всё о серверной части
-- @webdevlair (https://t.me/+KGcOxK2YjIk2MTBi) - Канал для верстальщиков
+- [Годные статьи для Frontend разработчиков](https://t.me/+mgVCqo08R5Y3MTNi)
+- [Всё о серверной части](https://t.me/+QZtUs-B2TlY1MzRi)
+- [Канал для верстальщиков](https://t.me/+KGcOxK2YjIk2MTBi)
 
 #GameDev
-- https://t.me/render_ru - Официальный канал ресурса по компьютерной графике и анимации RENDER.RU
+- [Официальный канал ресурса по компьютерной графике и анимации RENDER.RU](https://t.me/render_ru)
 
 Автор============================================>
 
