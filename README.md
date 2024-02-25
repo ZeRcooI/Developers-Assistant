@@ -50,11 +50,9 @@ Frontend разработка============================================>
 Редакторы============================================>
 - [Русский хелп по Krita, Blender, Photoshop. Уроки (обучение) на русском.](https://www.youtube.com/@Ventallica)
 - [Понятные гайды по фотошопу и другим дизайн программам!](https://www.youtube.com/@PhhhPhhh/videos)
-- [Самые ПОНЯТНЫЕ уроки по фотошопу & иллюстратору](https://www.youtube.com/@ustinovcreate)
-     
+- [Самые ПОНЯТНЫЕ уроки по фотошопу & иллюстратору](https://www.youtube.com/@ustinovcreate)     
 - [Понятные гайды по фотошопу](https://www.youtube.com/@gfxom/videos)
 - [Арты в фотошопе и 3д моделирование, оч крутая мадама](https://www.youtube.com/@Farely/videos)
-
 - [Blender уроки](https://www.youtube.com/@Prokopjenya)
 - [Уроки 3d blender](https://www.youtube.com/@HeyMaxorigami/videos)
 - [Мощные уроки 3d blender](https://www.youtube.com/@Polyfjord/videos)
