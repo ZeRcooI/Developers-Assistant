@@ -90,7 +90,7 @@ C#============================================>
 - [Взлом AdobeReader](https://mega.nz/folder/lpgnAKKR#-5rBtJ5VdA_0_ia1pOgIQQ)
 - [Как его ломать](https://www.youtube.com/watch?v=-cNJqP8Mgs0)
   
-<div align="center">
+<div>
   <ul> Активация Win10
       <li>(командная строка через админ.права)</li>
       <li>slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX</li>
@@ -98,7 +98,7 @@ C#============================================>
       <li>slmgr /ato</li>
   </ul>
 </div>
-<div align="center">
+<div>
   <ul>
     <li>Как включить принудительную темную тему Chrome:</li>
     <li>В адресной строке открыть «chrome://flags/#enable-force-dark»</li>
