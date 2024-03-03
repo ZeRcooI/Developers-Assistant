@@ -91,20 +91,20 @@ C#============================================>
 - [Как его ломать](https://www.youtube.com/watch?v=-cNJqP8Mgs0)
   
 <div align="center">
-  <p> Активация Win10
-      (командная строка через админ.права)
-      I.  slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
-      II. slmgr /skms kms.digiboy.ir
-      III. slmgr /ato
-  </p>
+  <ul> Активация Win10
+      <li>(командная строка через админ.права)</li>
+      <li>slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX</li>
+      <li>slmgr /skms kms.digiboy.ir</li>
+      <li>slmgr /ato</li>
+  </ul>
 </div>
 <div align="center">
-  <p>
-    Как включить принудительную темную тему Chrome:
-    В адресной строке открыть «chrome://flags/#enable-force-dark»
-    Откроется меню с экспериментальными функциями
-    Напротив пункта «Force Dark Mode for Web Contents» нужно выбрать «Enabled»
-  </p>
+  <ul>
+    <li>Как включить принудительную темную тему Chrome:</li>
+    <li>В адресной строке открыть «chrome://flags/#enable-force-dark»</li>
+    <li>Откроется меню с экспериментальными функциями</li>
+    <li>Напротив пункта «Force Dark Mode for Web Contents» нужно выбрать «Enabled»</li>
+  </ul>
 </div>
 
 Полезная инфа(1ый раздел)============================================>
