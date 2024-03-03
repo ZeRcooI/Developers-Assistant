@@ -91,7 +91,8 @@ C#============================================>
 - [Как его ломать](https://www.youtube.com/watch?v=-cNJqP8Mgs0)
   
 <div>
-  <ul> Активация Win10
+  Активация Win10
+  <ul>
       <li>(командная строка через админ.права)</li>
       <li>slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX</li>
       <li>slmgr /skms kms.digiboy.ir</li>
@@ -99,8 +100,8 @@ C#============================================>
   </ul>
 </div>
 <div>
+  Как включить принудительную темную тему Chrome:
   <ul>
-    <li>Как включить принудительную темную тему Chrome:</li>
     <li>В адресной строке открыть «chrome://flags/#enable-force-dark»</li>
     <li>Откроется меню с экспериментальными функциями</li>
     <li>Напротив пункта «Force Dark Mode for Web Contents» нужно выбрать «Enabled»</li>
