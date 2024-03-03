@@ -40,6 +40,7 @@ Frontend разработка============================================>
 - [Инструмент для быстрого наброска сайта](https://wireframe.cc/)
 - [Инструмент для преобразования изображения в фавиконку](https://pr-cy.ru/favicon/)
 - [Сервис для конверта видосов в gif](https://cloudconvert.com/mp4-to-gif)
+- [Сервис для создания слайдов JS](https://kenwheeler.github.io/slick/)
   
 ###############################################################################
 
@@ -84,19 +85,27 @@ C#============================================>
 - [Курсы паттерного проектирования.](https://www.youtube.com/@builderline7061/videos)
 
 Полезные файлы и Команды============================================>
-- https://yadi.sk/d/xGByf7Mo3F8GlQ - Слив курс по WEBразработке
-- https://yadi.sk/d/Zzy3VNCjKIf2hg?w=1 - Слив курс по WEBразработке
-- Активация Win10
-(командная строка через админ.права)
-I.  slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
-II. slmgr /skms kms.digiboy.ir
-III. slmgr /ato
-- https://mega.nz/folder/lpgnAKKR#-5rBtJ5VdA_0_ia1pOgIQQ - взлом AdobeReader
-- https://www.youtube.com/watch?v=-cNJqP8Mgs0 - как его ломать
-- Как включить принудительную темную тему Chrome:
-В адресной строке открыть «chrome://flags/#enable-force-dark»
-Откроется меню с экспериментальными функциями
-Напротив пункта «Force Dark Mode for Web Contents» нужно выбрать «Enabled»
+- [Слив курс по WEBразработке](https://yadi.sk/d/xGByf7Mo3F8GlQ)
+- [Слив курс по WEBразработке](https://yadi.sk/d/Zzy3VNCjKIf2hg?w=1)
+- [Взлом AdobeReader](https://mega.nz/folder/lpgnAKKR#-5rBtJ5VdA_0_ia1pOgIQQ)
+- [Как его ломать](https://www.youtube.com/watch?v=-cNJqP8Mgs0)
+  
+<div align="center">
+  <p> Активация Win10
+      (командная строка через админ.права)
+      I.  slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+      II. slmgr /skms kms.digiboy.ir
+      III. slmgr /ato
+  </p>
+</div>
+<div align="center">
+  <p>
+    Как включить принудительную темную тему Chrome:
+    В адресной строке открыть «chrome://flags/#enable-force-dark»
+    Откроется меню с экспериментальными функциями
+    Напротив пункта «Force Dark Mode for Web Contents» нужно выбрать «Enabled»
+  </p>
+</div>
 
 Полезная инфа(1ый раздел)============================================>
 - https://www.youtube.com/@itbeard - Жизнь айтишников изнутри, без цензуры и лишнего пафоса.
