@@ -19,12 +19,6 @@ Frontend разработка============================================>
 - [Огромное множество Иконок](https://fontawesome.com/search)
 - [Огромное множество Иконок](https://www.flaticon.com/icons?k=1705493052007&log-in=google)
 - [Хз зачем вам столько Иконок](https://iconduck.com/)
-- [Создаем фавиконы](https://www.favicon.by/)
-- [Создание logo с фоном](https://logoza.ru/)
-- [Вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG)](https://www.photopea.com/)
-  
-###############################################################################
-
 - [Где взять бесплатные картинки для коммерческого использования](https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080) 
 - [МНОЖЕСТВО КАРТИНОК](https://unsplash.com/)
 - [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
@@ -32,19 +26,23 @@ Frontend разработка============================================>
  
 ###############################################################################
 
-- [Шпаргалка по CSS](https://yoksel.github.io/)
+- [Вырезать однотонный фон у Лого(палочка, ctrl+i, ctrl+x, экспортируем PNG)](https://www.photopea.com/)
 - [Очень полезный инструмент для CSS](https://bennettfeely.com/)
 - [CSS редактор онлайн](https://www.cssmatic.com/)
-- [ШПАРГАЛКА ПО FLEXBOX](https://habr.com/ru/articles/313938/)
 - [Семантика разработчика](https://validator.w3.org/)
+- [Создаем фавиконы](https://www.favicon.by/)
+- [Создание logo с фоном](https://logoza.ru/)
 - [Инструмент для быстрого наброска сайта](https://wireframe.cc/)
 - [Инструмент для преобразования изображения в фавиконку](https://pr-cy.ru/favicon/)
 - [Сервис для конверта видосов в gif](https://cloudconvert.com/mp4-to-gif)
 - [Сервис для создания слайдов JS](https://kenwheeler.github.io/slick/)
 - [Ещё Сервис для создания слайдов JS](https://owlcarousel2.github.io/OwlCarousel2/)
+- [Крошечный слайдер для любых целей, вдохновленный Owl Carousel.](https://github.com/ganlanyuan/tiny-slider)
   
 ###############################################################################
 
+- [Шпаргалка по CSS](https://yoksel.github.io/)
+- [ШПАРГАЛКА ПО FLEXBOX](https://habr.com/ru/articles/313938/)
 - [Уроки Web разработки - клад для начинающего](https://www.youtube.com/@vadymprokopchuk)
 - [Уроки Web разработки - клад для начинающего](https://www.youtube.com/@ivashov/videos)
 - [Нескучная обучалка по Figma](https://www.youtube.com/watch?v=nkXmPyHG0x0&list=PLM2Q6lcZo4MexclJrYxA0Is42qWBBuHpB)
