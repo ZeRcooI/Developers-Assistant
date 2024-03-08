@@ -37,7 +37,7 @@ Frontend разработка============================================>
 - [Сервис для конверта видосов в gif](https://cloudconvert.com/mp4-to-gif)
 - [Сервис для создания слайдов JS](https://kenwheeler.github.io/slick/)
 - [Ещё Сервис для создания слайдов JS](https://owlcarousel2.github.io/OwlCarousel2/)
-- [Крошечный слайдер для любых целей, вдохновленный Owl Carousel.](https://github.com/ganlanyuan/tiny-slider)
+- [Простой jQuery-скрипт для табов (вкладок)](https://denis-creative.com/jquery-tabs/)
   
 ###############################################################################
 
