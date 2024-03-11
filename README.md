@@ -23,6 +23,7 @@ Frontend разработка============================================>
 - [МНОЖЕСТВО КАРТИНОК](https://unsplash.com/)
 - [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
 - [Множество видео](https://www.vecteezy.com/free-videos)
+- [Спецсимволы Html](https://html5book.ru/specsimvoly-html/)
  
 ###############################################################################
 
