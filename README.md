@@ -39,6 +39,7 @@ Frontend разработка============================================>
 - [Сервис для создания слайдов JS](https://kenwheeler.github.io/slick/)
 - [Ещё Сервис для создания слайдов JS](https://owlcarousel2.github.io/OwlCarousel2/)
 - [Простой jQuery-скрипт для табов (вкладок)](https://denis-creative.com/jquery-tabs/)
+- [Проверка формы с помощью jQuery](https://jqueryvalidation.org/)
   
 ###############################################################################
 
