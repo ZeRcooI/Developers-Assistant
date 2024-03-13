@@ -114,35 +114,29 @@ C#============================================>
 </div>
 
 Полезная инфа(1ый раздел)============================================>
-- https://www.youtube.com/@itbeard - Жизнь айтишников изнутри, без цензуры и лишнего пафоса.
-- https://www.youtube.com/@englishplaylists - Английский по плейлистам
-- https://www.youtube.com/@merionacademy/videos - Платформа доступного IT образования: про технологии весело, доступно и без занудства.
-- https://www.youtube.com/@leshamarshal/videos - На канале я делюсь своими знаниями по 
-. Тестированию ПО 
-. Автоматизации тестирования
-. Языку программирования Java
-. Языку программирования Go
-. Инструментам для Тестировщика например Postman
-- https://www.youtube.com/watch?v=3O2G_i9iG5c&list=LL&index=20&t=412s - Геометрия за 100мин
-- http://editor.fusionbrain.ai/ - бесплатный генератор изображений.
-- http://shedevrum.ai/ - нейросеть-соцсеть от Яндекса, создающая картинки по текстовому запросу.
-- http://developers.sber.ru/portal/products/rewriter#demo - сервис для переписывания текста, предлагающий альтернативные варианты. Бесплатный.
-- http://yandex.ru/lab/yalm - сервис, придумывающий продолжение текста с сохранением связности и стиля.
-- http://9may.mail.ru/restoration - бесплатный сервис для реставрации старых фото.
-- https://www.youtube.com/@ve123per - чат GPT идеи
+- [Жизнь айтишников изнутри, без цензуры и лишнего пафоса.](https://www.youtube.com/@itbeard)
+- [Английский по плейлистам](https://www.youtube.com/@englishplaylists)
+- [Платформа доступного IT образования: про технологии весело, доступно и без занудства.](https://www.youtube.com/@merionacademy/videos)
+- [Тестированию ПО, Автоматизации тестирования, Языку программирования Java, Языку программирования Go](https://www.youtube.com/@leshamarshal/videos)
+- [Геометрия за 100мин](https://www.youtube.com/watch?v=3O2G_i9iG5c&list=LL&index=20&t=412s)
+- [Бесплатный генератор изображений.](http://editor.fusionbrain.ai/)
+- [Нейросеть-соцсеть от Яндекса, создающая картинки по текстовому запросу.](http://shedevrum.ai/)
+- [Сервис для переписывания текста, предлагающий альтернативные варианты. Бесплатный.](http://developers.sber.ru/portal/products/rewriter#demo)
+- [Сервис, придумывающий продолжение текста с сохранением связности и стиля.](http://yandex.ru/lab/yalm)
+- [Бесплатный сервис для реставрации старых фото.](http://9may.mail.ru/restoration)
+- [Чат GPT идеи](https://www.youtube.com/@ve123per)
 
 Полезная инфа(2ой раздел)============================================>
-- https://progamedev.net/edu-devtodev/ - Про геймдев(различные курсы). (открывается через VPN)
-- https://www.captions.ai/ - Нейронка для следования камеры за глазами, а также авто добавления субтитров
-- https://habr.com/ru/companies/mygames/articles/698954/ - Как вести дизайн-документацию, чтобы ваша команда понимала, что она делает
-- https://lumenor.ai/ - Нейронка для красивых картинок и идей
-- https://docs.unity3d.com/Manual/ExecutionOrder.html - Схема базового понимания запуска всех процессов в Unity
-- https://www.youtube.com/watch?v=QvLOu6v8DU8 - Как самому сделать QR код?
-- https://github.com/FilimonovAlexey/FilimonovAlexey - Оформляем README-файл профиля на GitHub
-- https://t.me/+CQ2NhZ-I1ck0YWEy - моя помоечка с разной инфой
-- https://dictaphone.audio/ru/#/ - диктофон сразу в mp3
-- https://payment.mts.ru/cyber#Steam - ПОПОЛНИТЬ STEAM
-- https://www.youtube.com/watch?v=CbANs8O0mK4 - Как выложить проект на itch.io
+- [Про геймдев(различные курсы). (открывается через VPN)](https://progamedev.net/edu-devtodev/)
+- [Нейронка для следования камеры за глазами, а также авто добавления субтитров](https://www.captions.ai/)
+- [Как вести дизайн-документацию, чтобы ваша команда понимала, что она делает](https://habr.com/ru/companies/mygames/articles/698954/)
+- [Нейронка для красивых картинок и идей](https://lumenor.ai/)
+- [Схема базового понимания запуска всех процессов в Unity](https://docs.unity3d.com/Manual/ExecutionOrder.html)
+- [Как самому сделать QR код?](https://www.youtube.com/watch?v=QvLOu6v8DU8)
+- [Оформляем README-файл профиля на GitHub](https://github.com/FilimonovAlexey/FilimonovAlexey)
+- [Моя помоечка с разной инфой](https://t.me/+CQ2NhZ-I1ck0YWEy)
+- [Диктофон сразу в mp3](https://dictaphone.audio/ru/#/)
+- [Как выложить проект на itch.io](https://www.youtube.com/watch?v=CbANs8O0mK4)
 
 Юнити звуки============================================>
 - https://motionarray.com/browse/sound-effects/free/
