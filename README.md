@@ -22,6 +22,7 @@ Frontend разработка============================================>
 - [Где взять бесплатные картинки для коммерческого использования](https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080) 
 - [МНОЖЕСТВО КАРТИНОК](https://unsplash.com/)
 - [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
+- [Создаем фавиконы](https://www.favicon.by/)
 - [Множество видео](https://www.vecteezy.com/free-videos)
 - [Спецсимволы Html](https://html5book.ru/specsimvoly-html/)
  
@@ -34,7 +35,6 @@ Frontend разработка============================================>
 - [Очень полезный инструмент для CSS](https://bennettfeely.com/)
 - [CSS редактор онлайн](https://www.cssmatic.com/)
 - [Семантика разработчика](https://validator.w3.org/)
-- [Создаем фавиконы](https://www.favicon.by/)
 - [Создание logo с фоном](https://logoza.ru/)
 - [Инструмент для быстрого наброска сайта](https://wireframe.cc/)
 - [Инструмент для преобразования изображения в фавиконку](https://pr-cy.ru/favicon/)
