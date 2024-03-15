@@ -23,6 +23,7 @@ Frontend разработка============================================>
 - [МНОЖЕСТВО КАРТИНОК](https://unsplash.com/)
 - [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
 - [Создаем фавиконы](https://www.favicon.by/)
+- [GENERATE FROM IMAGE](https://favicon.io/favicon-converter/)
 - [Множество видео](https://www.vecteezy.com/free-videos)
 - [Спецсимволы Html](https://html5book.ru/specsimvoly-html/)
  
