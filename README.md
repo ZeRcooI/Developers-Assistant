@@ -23,6 +23,7 @@ Frontend разработка============================================>
 - [МНОЖЕСТВО КАРТИНОК](https://unsplash.com/)
 - [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
 - [Создаем фавиконы](https://www.favicon.by/)
+- [Инструмент для преобразования изображения в фавиконку](https://pr-cy.ru/favicon/)
 - [GENERATE FROM IMAGE](https://favicon.io/favicon-converter/)
 - [Множество видео](https://www.vecteezy.com/free-videos)
 - [Спецсимволы Html](https://html5book.ru/specsimvoly-html/)
@@ -30,6 +31,7 @@ Frontend разработка============================================>
 ###############################################################################
 
 - [Сервис актуальной инфы о поддержке HTML, CSS, jаvascript и др. веб-стандартов в различных браузерах и платформах.](https://caniuse.com/)
+- [Предварительный просмотр, редактирование и генерация твоих метатегов](https://metatags.io/)
 - [Узнать viewport экрана](https://yesviz.com/viewport/)
 - [Узнайте, как ускорить загрузку своих страниц на любых устройствах.](https://pagespeed.web.dev/)
 - [Отображение результатов для index.html](https://validator.w3.org/)
@@ -39,7 +41,6 @@ Frontend разработка============================================>
 - [Семантика разработчика](https://validator.w3.org/)
 - [Создание logo с фоном](https://logoza.ru/)
 - [Инструмент для быстрого наброска сайта](https://wireframe.cc/)
-- [Инструмент для преобразования изображения в фавиконку](https://pr-cy.ru/favicon/)
 - [Сервис для конверта видосов в gif](https://cloudconvert.com/mp4-to-gif)
 - [Сервис для создания слайдов JS](https://kenwheeler.github.io/slick/)
 - [Ещё Сервис для создания слайдов JS](https://owlcarousel2.github.io/OwlCarousel2/)
