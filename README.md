@@ -24,7 +24,7 @@ Frontend разработка============================================>
 - [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
 - [Создаем фавиконы](https://www.favicon.by/)
 - [Инструмент для преобразования изображения в фавиконку](https://pr-cy.ru/favicon/)
-- [GENERATE FROM IMAGE](https://favicon.io/favicon-converter/)
+- [Генератор фавикон](https://favicon.io/favicon-converter/)
 - [Множество видео](https://www.vecteezy.com/free-videos)
 - [Спецсимволы Html](https://html5book.ru/specsimvoly-html/)
  
