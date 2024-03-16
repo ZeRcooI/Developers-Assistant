@@ -22,6 +22,7 @@ Frontend разработка============================================>
 - [Где взять бесплатные картинки для коммерческого использования](https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080) 
 - [МНОЖЕСТВО КАРТИНОК](https://unsplash.com/)
 - [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
+- [Мощный генератор фавикон](https://www.favicon-generator.org/)
 - [Создаем фавиконы](https://www.favicon.by/)
 - [Инструмент для преобразования изображения в фавиконку](https://pr-cy.ru/favicon/)
 - [Генератор фавикон](https://favicon.io/favicon-converter/)
