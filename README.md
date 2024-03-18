@@ -16,9 +16,10 @@ Frontend разработка============================================>
  
 ###############################################################################
 
+- [Большое множество иконов](https://icon666.com/ru)
 - [Огромное множество Иконок](https://fontawesome.com/search)
-- [Огромное множество Иконок](https://www.flaticon.com/icons?k=1705493052007&log-in=google)
-- [Хз зачем вам столько Иконок](https://iconduck.com/)
+- [Я хз, зачем вам столько Иконок](https://www.flaticon.com/icons?k=1705493052007&log-in=google)
+- [Вы все ещё смотрите иконки?](https://iconduck.com/)
 - [Где взять бесплатные картинки для коммерческого использования](https://fireseo.ru/blog/besplatnye-kartinki-dlya-kommercheskogo-ispolzovaniya/?ysclid=lqmgvg6gs0515090080) 
 - [МНОЖЕСТВО КАРТИНОК](https://unsplash.com/)
 - [МНОЖЕСТВО КАРТИНОК](https://ru.freepik.com/popular-photos)
